@@ -4,5 +4,5 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Home"
-    url: /home/
+  - title: "CV"
+    url: /files/Resume.pdf
