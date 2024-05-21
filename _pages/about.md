@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dan Milo | Ph.D Student"
+title: "Home Page"
 author_profile: true
 redirect_from: 
   - /about/
